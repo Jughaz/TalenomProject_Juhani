@@ -22,6 +22,8 @@ To run test with highest priority write " robot --include=priority:high . "
 To run tests even easier write to the command line " run.bat " or just open the file run.bat directly
 
 This is optional if there is extra time to check it out
+download Generic java package (Jenkins.war)  at https://www.jenkins.io/download/
 run jenkins server file "java -jar jenkins.war "
+This requires download of java https://www.oracle.com/java/technologies/downloads/#jdk17-windows - x64 MSI Installer
 http://localhost:8080/
 Käyttäjätunnus jenkins - TalenomTester - Testiautomaatio1234
