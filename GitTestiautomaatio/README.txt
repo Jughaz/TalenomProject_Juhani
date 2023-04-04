@@ -23,4 +23,4 @@ To run tests even easier write to the command line " run.bat " or just open the 
 
 This is optional if there is extra time to check it out
 Käyttäjätunnus jenkins - TalenomTester - Testiautomaatio1234
-run jenkins server file " -jar jenkins.war "
+run jenkins server file "java -jar jenkins.war "
