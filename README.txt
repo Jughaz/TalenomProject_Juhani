@@ -18,7 +18,7 @@ To run all tests on command line write the filepath and then " robot . "
 To run tests on command line write the filepath and then " robot Testcases\LoginTest.robot "
 To run high priority or any other test with a different tag write " robot --include=priority:high Testcases\LoginTest.robot "
 To run with multiple different tags write for example " robot -i priority:high -i priority:low Testcases\LoginTest.robot "
-To run test with highest priority write " robot --include=priority:high . "
+To run all tests with highest priority write " robot --include=priority:high . "
 
 To run tests even easier write to the command line " run.bat " or just open the file run.bat directly
 
